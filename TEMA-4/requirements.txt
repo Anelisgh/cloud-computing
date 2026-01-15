@@ -1,0 +1,4 @@
+flask
+openai==1.10.0
+gunicorn
+httpx==0.25.2
