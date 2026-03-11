@@ -2,9 +2,9 @@
 
 **Nume:** Niță-Gheorghiaș Anelis-Ramona
 
-**Link Aplicație:** [[https://code-explainer-6896.azurewebsites.net/](https://code-explainer-6896.azurewebsites.net/)]
+**Link Aplicație:** https://code-explainer-50754.azurewebsites.net/
 
-**Info Endpoint:** [[https://code-explainer-6896.azurewebsites.net/info](https://code-explainer-6896.azurewebsites.net/info)]
+**Info Endpoint:** https://code-explainer-50754.azurewebsites.net/info
 
 ## 📜 Descriere
 Aplicație web care explică fragmente de cod folosind Azure OpenAI. Primește cod în orice limbaj de programare și returnează o explicație clară a funcționalității acestuia.
